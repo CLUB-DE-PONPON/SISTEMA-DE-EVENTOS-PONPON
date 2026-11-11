@@ -1,0 +1,10 @@
+{
+  "name": "club-pon-pon-prototype",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/flows.test.mjs",
+    "start": "node server.mjs",
+    "dev": "node server.mjs"
+  }
+}
